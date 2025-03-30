@@ -106,6 +106,6 @@ sudo python3 st.py
 
 #### Attention!:
 
-> To run ngrok on termux you need to enable your personal hotspot and cellular network.
+> To run ngrok on termux you need to enable your personal hotspot and cellular 3a26f805f62f0d38c7b9e7e4579ec1b9646f30d8network.
 
 </p>
